@@ -47,8 +47,8 @@ University project developed by:
 ├── Diagramma di Gantt.xlsx       # Project planning and timeline management
 └── NewMonopoly.vpp               # Visual Paradigm project (UML diagrams and modeling)
 
-> **Documentation Note:** The full report, requirements analysis, architecture diagrams and all UML diagrams are available in the **`RelazioneNewMonopoly.pdf`** file.
 ```
+> **Documentation Note:** The full report, requirements analysis, architecture diagrams and all UML diagrams are available in the **`RelazioneNewMonopoly.pdf`** file.
 
 ## Work Methodology and CI/CD
 
